@@ -16,7 +16,7 @@ menu:
   main:
     - name: About
       url: /about/
-    - name: GitHub
+    - name: Home
       url: https://github.com/rstudio/blogdown
     - name: Twitter
       url: https://twitter.com/rstudio
